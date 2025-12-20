@@ -21,6 +21,20 @@
 
 ---
 
+---
+
+## 📊 Mis Estadísticas de GitHub
+
+Aquí puedes ver mi actividad y el impacto de mis proyectos en tiempo real:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Eduardo" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+</p>
+
+> **Nota:** Como estoy empezando a subir mis proyectos de ingeniería y ciencia de datos, ¡estos gráficos crecerán constantemente! 🚀
+
 ## 🚀 Tecnologías y Herramientas
 
 ### Lenguajes y Análisis

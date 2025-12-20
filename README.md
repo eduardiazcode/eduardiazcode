@@ -53,7 +53,7 @@ Recientemente completé el curso de **GitHub para Programadores** en **EDteam**.
 ---
 
 ## 📫 Contacto
-* **LinkedIn:** [Tu Enlace Aquí]
+* **LinkedIn:** https://www.linkedin.com/in/eduardodiazdev/
 * **Ubicación:** Juliaca, Puno, Perú.
 
 ---

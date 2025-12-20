@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola! Soy Eduardo Ignacio Diaz Mollocondo 🚀
+### Ingeniero en Energías Renovables | Aspirante a Data Scientist | Entusiasta de Fedora Linux
+## 👤 Sobre mí
 
-<!--
-**eduardiazcode/eduardiazcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un profesional originario de **Juliaca, Perú**, egresado de la carrera de **Ingeniería en Energías Renovables**. Actualmente, estoy pivotando mi carrera hacia la **Ciencia de Datos**, convencido de que el análisis de datos es la clave para optimizar los recursos energéticos del futuro.
 
-Here are some ideas to get you started:
+Soy un usuario apasionado de **Linux (Fedora 43)** y creo firmemente en el aprendizaje continuo.
+## 🛠️ En lo que estoy trabajando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 **Tesis Profesional:** Estoy desarrollando mi investigación titulada: *"Evaluación del potencial técnico-económico de calentadores solares en el sector residencial de Juliaca utilizando datos geoespaciales y simulación Monte Carlo"*. Todo el proyecto está siendo gestionado con **LaTeX** (formato APA 6ta) y **Python**.
+* 💻 **Aprendizaje:** Actualmente perfeccionando mis habilidades en **Python** para análisis de datos y profundizando en flujos de trabajo colaborativos.
+* 🏢 **Formación:** Estudiante activo en **EDteam**.
+
+## 🚀 Tecnologías y Herramientas
+
+* **Lenguajes:** Python (En aprendizaje constante).
+* **Control de Versiones:** Git & GitHub (Certificado por EDteam).
+* **Sistemas Operativos:** Linux Fedora 43 🐧.
+* **Documentación Técnica:** LaTeX (APA 6th Edition).
+* **Análisis:** Google Sheets (Desarrollé un sistema financiero para la cooperativa "Santa Lucía").

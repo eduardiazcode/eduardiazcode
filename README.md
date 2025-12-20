@@ -12,6 +12,18 @@
 
 ---
 
+## 📊 Mis Estadísticas de GitHub
+
+Aquí puedes ver mi actividad y el impacto de mis proyectos en tiempo real:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardiazcode&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Eduardo" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardiazcode&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+</p>
+
+---
+
 ## 🛠️ En lo que estoy trabajando actualmente
 
 * 🎓 **Tesis Profesional:** Desarrollo de la investigación: *"Evaluación del potencial técnico-económico de calentadores solares en el sector residencial de Juliaca utilizando datos geoespaciales y simulación Monte Carlo"*.
@@ -20,20 +32,6 @@
 * 🏢 **Educación:** Estudiante activo en la plataforma **EDteam**.
 
 ---
-
----
-
-## 📊 Mis Estadísticas de GitHub
-
-Aquí puedes ver mi actividad y el impacto de mis proyectos en tiempo real:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/eduardiazcode&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Eduardo" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/eduardiazcode&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
-</p>
-
-> **Nota:** Como estoy empezando a subir mis proyectos de ingeniería y ciencia de datos, ¡estos gráficos crecerán constantemente! 🚀
 
 ## 🚀 Tecnologías y Herramientas
 
@@ -53,6 +51,15 @@ Aquí puedes ver mi actividad y el impacto de mis proyectos en tiempo real:
 
 ---
 
+## 📜 Certificaciones Profesionales
+
+* 🎓 **GitHub para Programadores** - [EDteam](https://ed.team)
+  * **Fecha:** 19 de diciembre de 2025
+  * **ID de Credencial:** `8051792944-d207166f-8f89-4295-970a-dfda313b43ae`
+  * **Instructor:** Beto Quiroga
+
+---
+
 ## 📈 Proyectos Destacados
 
 * **Sistema Financiero "Santa Lucía":** Creación de un sistema de gestión financiera para una cooperativa utilizando herramientas avanzadas de Google Sheets.
@@ -62,12 +69,13 @@ Aquí puedes ver mi actividad y el impacto de mis proyectos en tiempo real:
 
 ## 🏆 Agradecimientos Especiales
 
-Recientemente completé el curso de **GitHub para Programadores** en **EDteam**. Un agradecimiento especial a **Beto Quiroga**, quien fue mi maestro y mentor, brindándome las bases para profesionalizar mis repositorios y flujos de trabajo.
+Un agradecimiento especial a **Beto Quiroga**, quien fue mi maestro y mentor en el curso de **GitHub para Programadores**, brindándome las bases para profesionalizar mis repositorios y flujos de trabajo.
 
 ---
 
 ## 📫 Contacto
-* **LinkedIn:** https://www.linkedin.com/in/eduardodiazdev/
+* **GitHub:** [github.com/eduardiazcode](https://github.com/eduardiazcode)
+* **LinkedIn:** [Tu Perfil de LinkedIn Aquí]
 * **Ubicación:** Juliaca, Puno, Perú.
 
 ---

@@ -13,12 +13,9 @@ Soy un usuario apasionado de **Linux (Fedora 43)** y creo firmemente en el apren
 
 ## 🚀 Tecnologías y Herramientas
 
-* **Lenguajes:** Python (En aprendizaje constante).
+* **Lenguajes:** ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white).
 * **Control de Versiones:** Git & GitHub (Certificado por EDteam).
 * **Sistemas Operativos:** Linux Fedora 43 🐧.
 * **Documentación Técnica:** LaTeX (APA 6th Edition).
 * **Análisis:** Google Sheets (Desarrollé un sistema financiero para la cooperativa "Santa Lucía").
 
-[Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->

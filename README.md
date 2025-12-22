@@ -17,9 +17,9 @@
 Aquí puedes ver mi actividad y el impacto de mis proyectos en tiempo real:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardodiazdev&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Eduardo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardiazcode&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Eduardo" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodiazdev&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardiazcode&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 
 ---

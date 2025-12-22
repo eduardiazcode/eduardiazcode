@@ -10,19 +10,11 @@
 * 🎯 **Objetivo:** Estoy pivotando mi carrera hacia la **Ciencia de Datos**, convencido de que el análisis de datos es la clave para optimizar los recursos energéticos del futuro.
 * 🐧 **Sistemas:** Usuario apasionado de **Linux (Fedora 43)** y defensor del aprendizaje continuo.
 
----
+## 📊 Mis Métricas Profesionales
 
-## 📊 Mis Estadísticas de GitHub
-
-Aquí puedes ver mi actividad y el impacto de mis proyectos en tiempo real:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardiazcode&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Eduardo" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardiazcode&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
-</p>
-
----
+<div align="center">
+  <img src="https://github.com/eduardiazcode/eduardiazcode/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+</div>
 
 ## 🛠️ En lo que estoy trabajando actualmente
 

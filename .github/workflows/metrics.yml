@@ -36,4 +36,3 @@ jobs:
 
           # 🧩 Plugin: Logros (Trofeos)
           plugin_achievements: no
-          plugin_achievements_display: compact

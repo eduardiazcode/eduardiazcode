@@ -6,29 +6,30 @@
 ## 👤 Sobre mí
 
 * 📍 **Ubicación:** Originario de **Juliaca, Perú**.
-* 🎓 **Formación:** Egresado de la carrera de **Ingeniería en Energías Renovables**.
-* 🎯 **Objetivo:** Estoy pivotando mi carrera hacia la **Ciencia de Datos**, convencido de que el análisis de datos es la clave para optimizar los recursos energéticos del futuro.
-* 🐧 **Sistemas:** Usuario apasionado de **Linux (Fedora 43)** y defensor del aprendizaje continuo.
+* 🎓 **Formación:** Bachiller en **Ingeniería en Energías Renovables**.
+* 🎯 **Objetivo:** Pivotando hacia la **Ciencia de Datos** para optimizar recursos energéticos mediante el análisis avanzado.
+* 🐧 **Sistemas:** Usuario de **Fedora Linux**, enfocado en flujos de trabajo limpios y eficientes.
 
-## 📊 Mis Métricas Profesionales
+---
 
 ## 📊 Estadísticas de GitHub
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardodiazcode&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Eduardo" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodiazcode&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes más usados" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardodiazdev&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas Generales" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodiazdev&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes más usados" height="180">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardodiazcode&theme=tokyonight" alt="Racha de Commits" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardodiazdev&theme=tokyonight" alt="Racha de Actividad" />
 </p>
+
+---
 
 ## 🛠️ En lo que estoy trabajando actualmente
 
-* 🎓 **Tesis Profesional:** Desarrollo de la investigación: *"Evaluación del potencial técnico-económico de calentadores solares en el sector residencial de Juliaca utilizando datos geoespaciales y simulación Monte Carlo"*.
-* 📄 **Documentación:** Gestión técnica integral utilizando **LaTeX** bajo el formato **APA 6ta edición**.
-* 💻 **Desarrollo:** Perfeccionando habilidades en **Python** para análisis de datos y flujos de trabajo colaborativos.
-* 🏢 **Educación:** Estudiante activo en la plataforma **EDteam**.
+* 🎓 **Tesis Profesional:** *"Evaluación del potencial técnico-económico de calentadores solares en Juliaca utilizando datos geoespaciales y simulación Monte Carlo"*.
+* 📄 **Documentación:** Redacción técnica en **LaTeX** siguiendo el estándar **APA 6ta edición**.
+* 💻 **Desarrollo:** Implementación de modelos estadísticos y análisis de datos con **Python**.
+* 🏢 **Formación:** Estudiante constante en **EDteam**.
 
 ---
 
@@ -39,41 +40,28 @@
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-### Control de Versiones y Desarrollo
+### Control de Versiones y OS
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### Infraestructura y OS
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-
----
-
-## 📜 Certificaciones Profesionales
-
-* 🎓 **GitHub para Programadores** - [EDteam](https://ed.team)
-  * **Fecha:** 19 de diciembre de 2025
-  * **ID de Credencial:** `8051792944-d207166f-8f89-4295-970a-dfda313b43ae`
-  * **Instructor:** Beto Quiroga
 
 ---
 
 ## 📈 Proyectos Destacados
 
-* **Sistema Financiero "Santa Lucía":** Creación de un sistema de gestión financiera para una cooperativa utilizando herramientas avanzadas de Google Sheets.
-* **Simulación Monte Carlo:** Implementación de modelos estadísticos para la evaluación de potencial energético solar en Juliaca.
+* **Simulación Monte Carlo:** Aplicación de modelos de probabilidad para la evaluación energética solar.
+* **Sistema "Santa Lucía":** Gestión financiera y amortización automatizada mediante herramientas avanzadas de datos.
+* **Calculadora de Ahorro Solar:** Herramienta en Python para estimar el impacto económico de sistemas fotovoltaicos.
 
 ---
 
-## 🏆 Agradecimientos Especiales
+## 📜 Certificaciones
 
-Un agradecimiento especial a **Beto Quiroga**, quien fue mi maestro y mentor en el curso de **GitHub para Programadores**, brindándome las bases para profesionalizar mis repositorios y flujos de trabajo.
+* 🎓 **GitHub para Programadores** - [EDteam](https://ed.team)
+  * **Instructor:** Beto Quiroga | **Fecha:** Diciembre 2025.
 
 ---
 
 ## 📫 Contacto
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardodiazdev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardodiazdev/)
-
----
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardodiazdev)

@@ -15,12 +15,12 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardodiazdev&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Eduardo" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodiazdev&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes más usados" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardodiazcode&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Eduardo" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodiazcode&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes más usados" height="180">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardodiazdev&theme=tokyonight" alt="Racha de Commits" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardodiazcode&theme=tokyonight" alt="Racha de Commits" />
 </p>
 
 ## 🛠️ En lo que estoy trabajando actualmente

@@ -14,12 +14,12 @@
 
 ## 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardodiazdev&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas Generales" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodiazdev&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes más usados" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardiazcode&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas Generales" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardiazcode&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes más usados" height="180">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardodiazdev&theme=tokyonight" alt="Racha de Actividad" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardiazcode&theme=tokyonight" alt="Racha de Actividad" />
 </p>
 
 ---
@@ -63,5 +63,4 @@
 ---
 
 ## 📫 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardodiazdev/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardodiazdev)
+[![LinkedIn](

@@ -1,8 +1,15 @@
 <div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
 
-# Eduardo Ignacio Diaz Mollocondo
+<h3 align="center">
+  Hi, I'm Eduardo Ignacio Diaz Mollocondo
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-### Renewable Energy Engineer · Data Science Aspirant · Open Source Advocate
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Renewable%20Energy%20Engineer;Aspiring%20Data%20Scientist;Python%20%7C%20PostgreSQL%20%7C%20LaTeX;Open%20Source%20Advocate;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=45&color=70a5fd&vCenter=true&pause=1000&size=22"></a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eduardodiazdev/">
@@ -15,13 +22,21 @@
   <img src="https://img.shields.io/badge/Juliaca-Peru-D91023?style=flat-square" alt="Location"/>
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/eduardiazcode/" align="center"><img align="center" alt="Profile Views" src="https://visitor-badge.laobi.icu/badge?page_id=eduardiazcode.eduardiazcode"></a>
+</p>
 
-</div>
+---
 
 ## 👨‍💻 About Me
 
 Renewable Energy Engineer with a passion for data-driven solutions. Currently bridging the gap between sustainable energy systems and advanced analytics to optimize resource utilization and drive informed decision-making.
+
+- 🎓 B.Sc. in Renewable Energy Engineering
+- 💼 Transitioning to Data Science with focus on energy optimization
+- 🌱 Currently working on my professional thesis using Monte Carlo simulation
+- 💬 Ask me about Solar Energy Systems, Statistical Modeling, and Geospatial Analysis
+- 📍 Based in Juliaca, Peru 🇵🇪
 
 ```python
 class Eduardo:
@@ -60,31 +75,34 @@ class Eduardo:
 
 <br>
 
-## 🛠️ Technology Stack
+## 🛠 &nbsp;Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      
-**Programming & Analysis**
+#### 🔧 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### 🗄️ Databases & Tools
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-</td>
-    <td align="center" width="50%">
+#### 📚 Libraries
 
-**Development Environment**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+#### 🔧 Development Environment
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-
-</td>
-  </tr>
-</table>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 <br>
 
@@ -131,21 +149,52 @@ Python-based analytical tool for photovoltaic system economic impact assessment.
 
 <br>
 
-## 📊 GitHub Statistics
+## 📊 Profile Statistics
 
-<div align="center">
+<div align=center>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardiazcode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)](https://github.com/eduardiazcode)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardiazcode&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8)](https://github.com/eduardiazcode)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=eduardiazcode&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae)](https://github.com/eduardiazcode)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardiazcode&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)](https://github.com/eduardiazcode)
+![](https://github-readme-stats.vercel.app/api?username=eduardiazcode&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=70a5fd&icon_color=70a5fd&border_radius=20&include_all_commits=true&rank_icon=percentile)
+<br>
 
 </div>
 
-<br>
+### 💳 Github Profile Summary Card
+
+<div align=center>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardiazcode&theme=github_dark)
+
+</div>
+
+### ⏱ Streak Stats
+
+<div align=center>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eduardiazcode&theme=dracula&background=1E2B3C&border=70a5fd&stroke=000439&ring=70a5fd&fire=bf91f3&currStreakNum=70a5fd&sideNums=70a5fd&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=FFFFFF)](https://git.io/streak-stats)
+
+</div>
+
+### 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardiazcode&theme=react-dark&bg_color=1e2b3c&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 📊 Most Used Languages
+
+<div align=center>
+
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=eduardiazcode&show_icons=true&locale=en&layout=compact&theme=algolia&bg_color=1e2b3c&border_color=70a5fd&border_radius=20)]()
+
+</div>
+
+### 🏆 Profile Trophies
+
+<div align=center>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=eduardiazcode&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
 
 ## 🎓 Certifications & Learning
 
@@ -164,15 +213,26 @@ Python-based analytical tool for photovoltaic system economic impact assessment.
 - Data science applications in sustainability
 - Open source contributions
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardodiazdev/)
-[![Email](https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo@example.com)
+<br>
+
+<a href="mailto:eduardo@example.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/eduardodiazdev/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/eduardiazcode"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
+
+<h5 align="center">💡 "Bridging renewable energy and data science to build a sustainable future" 💡</h5>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=eduardiazcode&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
-  
-  **"Bridging renewable energy and data science to build a sustainable future"**
-</div>
+<h6 align="center">👇 Check out my repositories for renewable energy and data science projects 👇</h6>
+
+------
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+Credit: [eduardiazcode](https://github.com/eduardiazcode)
+
+Last Edited on: 30/01/2026

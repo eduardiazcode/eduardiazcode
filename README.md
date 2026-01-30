@@ -22,7 +22,6 @@
 ## 👨‍💻 About Me
 
 Renewable Energy Engineer with a passion for data-driven solutions. Currently bridging the gap between sustainable energy systems and advanced analytics to optimize resource utilization and drive informed decision-making.
-
 ```python
 class Eduardo:
     def __init__(self):
@@ -130,15 +129,45 @@ Python-based analytical tool for photovoltaic system economic impact assessment.
 
 <br>
 
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
 
 <div align="center">
 
-**Active in:** Python · LaTeX · Data Analysis · Renewable Energy Projects
+### Contribution Stats
+<a href="https://github.com/eduardiazcode">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardiazcode&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardiazcode&layout=compact&langs_count=7&theme=radical"/>
+</a>
 
-🔭 Currently developing Monte Carlo simulation models  
-🌱 Learning advanced statistical analysis and data science  
-💡 Open to collaborate on renewable energy and sustainability projects
+### Activity Overview
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardiazcode&theme=radical&hide_border=false" alt="Contribution Streak"/>
+</p>
+
+### Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardiazcode&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
+</p>
+
+### Profile Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardiazcode&theme=radical" alt="Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eduardiazcode&theme=radical" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eduardiazcode&theme=radical" alt="Most Used Language"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eduardiazcode&theme=radical" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eduardiazcode&theme=radical&utcOffset=-5" alt="Productive Time"/>
+</p>
+
+### Trophy Case
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=eduardiazcode&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
+</p>
 
 </div>
 

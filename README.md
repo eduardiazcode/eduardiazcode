@@ -2,7 +2,7 @@
 
 # Eduardo Ignacio Diaz Mollocondo
 
-### Renewable Energy Engineer · Data Science Aspirant · Open Source Advocate
+### Bachiller en Ingeniería en Energías Renovables · Aspirante a Data Scientist · Fedora Linux Enthusiast
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eduardodiazdev/">
@@ -19,173 +19,22 @@
 
 </div>
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mí
 
-Renewable Energy Engineer with a passion for data-driven solutions. Currently bridging the gap between sustainable energy systems and advanced analytics to optimize resource utilization and drive informed decision-making.
+Bachiller en Ingeniería en Energías Renovables enfocado en el uso de datos para optimizar recursos energéticos. Actualmente pivotando hacia la Ciencia de Datos para aplicar análisis avanzado en proyectos de sostenibilidad en Puno, Perú.
 
 ```python
 class Eduardo:
     def __init__(self):
         self.role = "Renewable Energy Engineer"
         self.aspiration = "Data Scientist"
-        self.location = "Juliaca, Peru"
-        self.education = "B.Sc. Renewable Energy Engineering"
-        self.os = "Fedora Linux"
+        self.location = "Juliaca, Puno, Peru"
+        self.os = "Fedora Linux (Custom macOS environment)"
+        self.stack = ["Python", "SQL", "PostgreSQL", "LaTeX"]
         
     def current_focus(self):
         return {
-            "thesis": "Solar thermal potential assessment",
-            "methods": ["Geospatial analysis", "Monte Carlo simulation"],
-            "tools": ["Python", "LaTeX", "Statistical modeling"],
-            "learning": "EDteam continuous education"
+            "thesis": "Evaluación del potencial solar mediante simulación Monte Carlo",
+            "tools": ["Análisis Geoespacial", "Starship Terminal", "Zoxide"],
+            "learning": "Estudiante constante en EDteam"
         }
-    
-    def future_goals(self):
-        return "Leveraging data science for renewable energy optimization"
-```
-
-<br>
-
-## 🔬 Current Research
-
-**Professional Thesis Project**
-
-> *"Technical-Economic Assessment of Solar Water Heaters in Juliaca Using Geospatial Data and Monte Carlo Simulation"*
-
-**Focus Areas:**
-- Probabilistic modeling for solar energy evaluation
-- Geospatial data analysis and processing
-- Economic viability assessment
-- Technical documentation in LaTeX (APA 6th Edition)
-
-<br>
-
-## 🛠️ Technology Stack
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      
-**Programming & Analysis**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-</td>
-    <td align="center" width="50%">
-
-**Development Environment**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-
-</td>
-  </tr>
-</table>
-
-<br>
-
-## 💼 Featured Projects
-
-<details open>
-<summary><b>Monte Carlo Solar Simulation</b></summary>
-<br>
-
-Probabilistic modeling framework integrating geospatial data with statistical analysis for solar energy potential assessment.
-
-**Key Features:**
-- Stochastic modeling of solar irradiance
-- Technical and economic viability analysis
-- Data-driven decision support system
-
-</details>
-
-<details>
-<summary><b>Santa Lucía Financial System</b></summary>
-<br>
-
-Automated financial management platform with advanced amortization algorithms and data processing capabilities.
-
-**Capabilities:**
-- Loan amortization automation
-- Financial analytics dashboard
-- Complex calculation streamlining
-
-</details>
-
-<details>
-<summary><b>Solar Savings Calculator</b></summary>
-<br>
-
-Python-based analytical tool for photovoltaic system economic impact assessment.
-
-**Features:**
-- ROI calculation engine
-- Customizable parameters
-- Investment decision support
-
-</details>
-
-<br>
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-```text
-🔹 Focus Areas
-├─ 🐍 Python Development
-├─ 📊 Data Analysis & Statistics
-├─ 🌞 Renewable Energy Systems
-├─ 📝 Technical Documentation (LaTeX)
-└─ 🗄️ Database Management (PostgreSQL)
-
-💼 Current Projects
-├─ Monte Carlo Solar Simulation
-├─ Santa Lucía Financial System
-└─ Solar Savings Calculator
-
-🎯 Learning Path
-├─ Advanced Data Science
-├─ Statistical Modeling
-└─ Geospatial Analysis
-```
-
-**📈 Active Contributions** • **🔭 Open Source Enthusiast** • **🌱 Continuous Learner**
-
-</div>
-
-<br>
-
-## 🎓 Certifications & Learning
-
-| Certification | Institution | Date | Instructor |
-|:--------------|:------------|:----:|:-----------|
-| **GitHub for Developers** | EDteam | Dec 2025 | Beto Quiroga |
-
-<br>
-
-## 📫 Get In Touch
-
-<div align="center">
-
-**Open to collaborations in:**
-- Renewable energy optimization
-- Data science applications in sustainability
-- Open source contributions
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardodiazdev/)
-[![Email](https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo@example.com)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=eduardiazcode&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
-  
-  **"Bridging renewable energy and data science to build a sustainable future"**
-</div>

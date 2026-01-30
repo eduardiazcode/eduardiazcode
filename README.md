@@ -131,18 +131,30 @@ Python-based analytical tool for photovoltaic system economic impact assessment.
 
 <br>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<a href="https://github.com/eduardiazcode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardiazcode&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=d91023"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardiazcode&layout=compact&langs_count=8&theme=radical&border_color=d91023"/>
-</a>
+```text
+🔹 Focus Areas
+├─ 🐍 Python Development
+├─ 📊 Data Analysis & Statistics
+├─ 🌞 Renewable Energy Systems
+├─ 📝 Technical Documentation (LaTeX)
+└─ 🗄️ Database Management (PostgreSQL)
 
-<br><br>
+💼 Current Projects
+├─ Monte Carlo Solar Simulation
+├─ Santa Lucía Financial System
+└─ Solar Savings Calculator
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=eduardiazcode&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
+🎯 Learning Path
+├─ Advanced Data Science
+├─ Statistical Modeling
+└─ Geospatial Analysis
+```
+
+**📈 Active Contributions** • **🔭 Open Source Enthusiast** • **🌱 Continuous Learner**
 
 </div>
 

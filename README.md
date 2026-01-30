@@ -38,27 +38,6 @@ Renewable Energy Engineer with a passion for data-driven solutions. Currently br
 - 💬 Ask me about Solar Energy Systems, Statistical Modeling, and Geospatial Analysis
 - 📍 Based in Juliaca, Peru 🇵🇪
 
-```python
-class Eduardo:
-    def __init__(self):
-        self.role = "Renewable Energy Engineer"
-        self.aspiration = "Data Scientist"
-        self.location = "Juliaca, Peru"
-        self.education = "B.Sc. Renewable Energy Engineering"
-        self.os = "Fedora Linux"
-        
-    def current_focus(self):
-        return {
-            "thesis": "Solar thermal potential assessment",
-            "methods": ["Geospatial analysis", "Monte Carlo simulation"],
-            "tools": ["Python", "LaTeX", "Statistical modeling"],
-            "learning": "EDteam continuous education"
-        }
-    
-    def future_goals(self):
-        return "Leveraging data science for renewable energy optimization"
-```
-
 <br>
 
 ## 🔬 Current Research
@@ -201,6 +180,9 @@ Python-based analytical tool for photovoltaic system economic impact assessment.
 | Certification | Institution | Date | Instructor |
 |:--------------|:------------|:----:|:-----------|
 | **GitHub for Developers** | EDteam | Dec 2025 | Beto Quiroga |
+| **Git** | EDteam | Dec 2025 | Beto Quiroga |
+| **Estadística** | EDteam | Dec 2025 | Beto Quiroga |
+| **Introduccion a la Terminal** | EDteam | Nov 2025 | Alexis Lozada |
 
 <br>
 
@@ -215,7 +197,7 @@ Python-based analytical tool for photovoltaic system economic impact assessment.
 
 <br>
 
-<a href="mailto:eduardo@example.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:eduardoignaciodm@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/eduardodiazdev/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/eduardiazcode"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
@@ -234,5 +216,3 @@ Python-based analytical tool for photovoltaic system economic impact assessment.
 </p>
 
 Credit: [eduardiazcode](https://github.com/eduardiazcode)
-
-Last Edited on: 30/01/2026

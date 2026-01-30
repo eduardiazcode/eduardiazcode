@@ -131,30 +131,17 @@ Python-based analytical tool for photovoltaic system economic impact assessment.
 
 <br>
 
-## 📊 GitHub Activity
+## 📊 GitHub Statistics
 
 <div align="center">
 
-```text
-🔹 Focus Areas
-├─ 🐍 Python Development
-├─ 📊 Data Analysis & Statistics
-├─ 🌞 Renewable Energy Systems
-├─ 📝 Technical Documentation (LaTeX)
-└─ 🗄️ Database Management (PostgreSQL)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardiazcode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)](https://github.com/eduardiazcode)
 
-💼 Current Projects
-├─ Monte Carlo Solar Simulation
-├─ Santa Lucía Financial System
-└─ Solar Savings Calculator
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardiazcode&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8)](https://github.com/eduardiazcode)
 
-🎯 Learning Path
-├─ Advanced Data Science
-├─ Statistical Modeling
-└─ Geospatial Analysis
-```
+[![GitHub Streak](https://streak-stats.demolab.com/?user=eduardiazcode&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae)](https://github.com/eduardiazcode)
 
-**📈 Active Contributions** • **🔭 Open Source Enthusiast** • **🌱 Continuous Learner**
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardiazcode&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)](https://github.com/eduardiazcode)
 
 </div>
 

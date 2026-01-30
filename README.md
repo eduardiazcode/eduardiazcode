@@ -22,6 +22,7 @@
 ## 👨‍💻 About Me
 
 Renewable Energy Engineer with a passion for data-driven solutions. Currently bridging the gap between sustainable energy systems and advanced analytics to optimize resource utilization and drive informed decision-making.
+
 ```python
 class Eduardo:
     def __init__(self):
@@ -129,15 +130,15 @@ Python-based analytical tool for photovoltaic system economic impact assessment.
 
 <br>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardiazcode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardiazcode&layout=compact&theme=tokyonight&hide_border=true)
+**Active in:** Python · LaTeX · Data Analysis · Renewable Energy Projects
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eduardiazcode&theme=tokyonight&hide_border=true)
+🔭 Currently developing Monte Carlo simulation models  
+🌱 Learning advanced statistical analysis and data science  
+💡 Open to collaborate on renewable energy and sustainability projects
 
 </div>
 
@@ -161,7 +162,7 @@ Python-based analytical tool for photovoltaic system economic impact assessment.
 - Open source contributions
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardodiazdev/)
-[![Email](https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardoignaciodm@gmail.com)
+[![Email](https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo@example.com)
 
 </div>
 

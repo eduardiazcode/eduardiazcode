@@ -22,7 +22,6 @@
 ## 👨‍💻 About Me
 
 Renewable Energy Engineer with a passion for data-driven solutions. Currently bridging the gap between sustainable energy systems and advanced analytics to optimize resource utilization and drive informed decision-making.
-
 ```python
 class Eduardo:
     def __init__(self):
@@ -133,12 +132,13 @@ Python-based analytical tool for photovoltaic system economic impact assessment.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardiazcode&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardiazcode&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117"/>
-</div>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardiazcode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardiazcode&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardiazcode&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eduardiazcode&theme=tokyonight&hide_border=true)
+
 </div>
 
 <br>

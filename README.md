@@ -181,7 +181,7 @@ Python-based analytical tool for photovoltaic system economic impact assessment.
 |:--------------|:------------|:----:|:-----------|
 | **GitHub for Developers** | EDteam | Dec 2025 | Beto Quiroga |
 | **Git** | EDteam | Dec 2025 | Beto Quiroga |
-| **Estadística** | EDteam | Dec 2025 | Beto Quiroga |
+| **Estadística** | EDteam | Dec 2025 | Victor Hugo Teran |
 | **Introduccion a la Terminal** | EDteam | Nov 2025 | Alexis Lozada |
 
 <br>

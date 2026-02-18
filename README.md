@@ -27,8 +27,8 @@
 
 | | |
 |---|---|
-| 🎓 | **Bachiller** en Ingeniería de Energías Renovables |
-| 🏛️ | Universidad Nacional de Juliaca |
+| 🎓 | Bachelor en Ingeniería de Energías Renovables |
+| 🏛️ | **Universidad Nacional de Juliaca (UNAJ)** |
 | 📍 | Juliaca, Peru |
 | 💼 | Seeking Data Analyst Positions |
 | 🌱 | Currently: Developing Solar Calculator + Thesis |
@@ -126,11 +126,22 @@ Automated financial platform with amortization algorithms and data processing.
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Certifications
+
+### University Education
 
 | Degree | Institution | Status |
 |--------|-------------|--------|
-| **Bachiller en Ingeniería de Energías Renovables** | Universidad Nacional de Juliaca | ✅ Completed |
+| **Bachiller en Ingeniería de Energías Renovables** | Universidad Nacional de Juliaca (UNAJ) | ✅ Completed |
+
+### Professional Certifications
+
+| Certification | Institution | Date | Instructor |
+|:--------------|:------------|:----:|:-----------|
+| **GitHub for Developers** | EDteam | Dec 2025 | Beto Quiroga |
+| **Git** | EDteam | Dec 2025 | Beto Quiroga |
+| **Estadística** | EDteam | Dec 2025 | Victor Hugo Teran |
+| **Introducción a la Terminal** | EDteam | Nov 2025 | Alexis Lozada |
 
 ---
 

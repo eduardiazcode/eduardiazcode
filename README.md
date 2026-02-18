@@ -130,12 +130,13 @@ Python-based analytical tool for photovoltaic system economic impact assessment.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardiazcode&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=70a5fd&icon_color=70a5fd&border_radius=20)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eduardiazcode&theme=algolia&background=1E2B3C&border=70a5fd&stroke=000439&ring=70a5fd&fire=bf91f3&currStreakNum=70a5fd&sideNums=70a5fd&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=FFFFFF&border_radius=20)
+
 </div>
 
 <div align="center">
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardiazcode&theme=algolia)
-![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eduardiazcode&theme=algolia)
+[![trophy](https://github-profile-trophy.vercel.app/?username=eduardiazcode&theme=algolia&no-frame=true&margin-w=15&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 

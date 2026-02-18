@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Renewable%20Energy%20Engineer;Aspiring%20Data%20Scientist;Python%20%7C%20PostgreSQL%20%7C%20LaTeX;Open%20Source%20Advocate;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=45&color=70a5fd&vCenter=true&pause=1000&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Renewable%20Energy%20Engineer;Aspiring%20Data%20Scientist;Python%20%7C%20PostgreSQL%20%7C%20LaTeX;Open%20Source%20Advocate;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=45&color=2dd4bf&vCenter=true&pause=1000&size=22"></a>
 </p>
 
 <p align="center">
@@ -128,15 +128,31 @@ Python-based analytical tool for photovoltaic system economic impact assessment.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardiazcode&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=70a5fd&icon_color=70a5fd&border_radius=20)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eduardiazcode&theme=algolia&background=1E2B3C&border=70a5fd&stroke=000439&ring=70a5fd&fire=bf91f3&currStreakNum=70a5fd&sideNums=70a5fd&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=FFFFFF&border_radius=20)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardiazcode&theme=merko&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=2dd4bf&icon_color=2dd4bf&border_radius=20&include_all_commits=true)
 
 </div>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=eduardiazcode&theme=algolia&no-frame=true&margin-w=15&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=eduardiazcode&layout=donut-vertical&theme=merko&bg_color=1e2b3c&border_color=2dd4bf&border_radius=20&count_private=true&langs_count=8)
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eduardiazcode&theme=merko&background=1E2B3C&border=2dd4bf&stroke=0f4c3a&ring=2dd4bf&fire=2dd4bf&currStreakNum=2dd4bf&sideNums=2dd4bf&currStreakLabel=2dd4bf&sideLabels=2dd4bf&dates=ffffff&border_radius=20)
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=eduardiazcode&theme=flat&no-frame=true&margin-w=15&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardiazcode&theme=react-dark&bg_color=1e2b3c&color=2dd4bf&line=2dd4bf&point=2dd4bf&area=true&hide_border=false&border_radius=20)
 
 </div>
 

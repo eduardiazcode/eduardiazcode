@@ -1,5 +1,5 @@
 <div align="center">
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
 </div>
 
 <h3 align="center">
@@ -23,12 +23,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/eduardiazcode/" align="center"><img align="center" alt="Profile Views" src="https://visitor-badge.laobi.icu/badge?page_id=eduardiazcode.eduardiazcode"></a>
+  <img alt="Profile Views" src="https://visitor-badge.laobi.icu/badge?page_id=eduardiazcode.eduardiazcode">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍ About Me
 
 Renewable Energy Engineer with a passion for data-driven solutions. Currently bridging the gap between sustainable energy systems and advanced analytics to optimize resource utilization and drive informed decision-making.
 
@@ -54,34 +54,11 @@ Renewable Energy Engineer with a passion for data-driven solutions. Currently br
 
 <br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 Tech Stack
 
-#### 🔧 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### 🗄️ Databases & Tools
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-
-#### 📚 Libraries
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-
-#### 🔧 Development Environment
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,html,css,git,github,linux,postgres,vscode,jupyter,latex" />
+</div>
 
 <br>
 
@@ -130,56 +107,30 @@ Python-based analytical tool for photovoltaic system economic impact assessment.
 
 ## 📊 Profile Statistics
 
-<div align=center>
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=eduardiazcode&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=70a5fd&icon_color=70a5fd&border_radius=20&include_all_commits=true&rank_icon=percentile)
-<br>
-
-</div>
-
-### 💳 Github Profile Summary Card
-
-<div align=center>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardiazcode&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardiazcode&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=70a5fd&icon_color=70a5fd&border_radius=20&include_all_commits=true&rank_icon=percentile)
 
 </div>
-
-### ⏱ Streak Stats
-
-<div align=center>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eduardiazcode&theme=dracula&background=1E2B3C&border=70a5fd&stroke=000439&ring=70a5fd&fire=bf91f3&currStreakNum=70a5fd&sideNums=70a5fd&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=FFFFFF)](https://git.io/streak-stats)
-
-</div>
-
-### 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardiazcode&theme=react-dark&bg_color=1e2b3c&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 📊 Most Used Languages
-
-<div align=center>
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eduardiazcode&theme=algolia)
-
-</div>
-
-### 🛠 Technologies & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,html,css,git,linux,postgres,vscode,jupyter,latex" />
-</div>
 
-### 🏆 Profile Trophies
-
-<div align=center>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=eduardiazcode&theme=onedark&no-frame=true&margin-w=15&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=eduardiazcode&layout=donut-vertical&theme=algolia&bg_color=1e2b3c&border_color=70a5fd&border_radius=20&count_private=true&langs_count=8)
 
 </div>
 
----
+<div align="center">
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardiazcode&theme=algolia)
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eduardiazcode&theme=algolia)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eduardiazcode&theme=algolia)
+![Stats In Details](https://github-profile-summary-cards.vercel.app/api/cards/stats-in-details?username=eduardiazcode&theme=algolia)
+
+</div>
+
+</div>
+
+<br>
 
 ## 🎓 Certifications & Learning
 
@@ -213,12 +164,8 @@ Python-based analytical tool for photovoltaic system economic impact assessment.
 
 ---
 
-<h6 align="center">👇 Check out my repositories for renewable energy and data science projects 👇</h6>
-
-------
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-Credit: [eduardiazcode](https://github.com/eduardiazcode)
+<p align="center">Credit: <a href="https://github.com/eduardiazcode">eduardiazcode</a></p>

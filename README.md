@@ -165,11 +165,17 @@ Python-based analytical tool for photovoltaic system economic impact assessment.
 
 </div>
 
+### 🛠 Technologies & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,html,css,git,linux,postgres,vscode,jupyter,latex" />
+</div>
+
 ### 🏆 Profile Trophies
 
 <div align=center>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=eduardiazcode&theme=onedark&no-frame=true&margin-w=10&v=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=eduardiazcode&theme=onedark&no-frame=true&margin-w=15&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 

@@ -57,7 +57,7 @@ Renewable Energy Engineer with a passion for data-driven solutions. Currently br
 ## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,html,css,git,github,linux,postgres,vscode,jupyter,latex" />
+  <img src="https://skillicons.dev/icons?i=py,html,css,git,github,linux,postgres,vscode,jupyter,latex&perline=10" />
 </div>
 
 <br>

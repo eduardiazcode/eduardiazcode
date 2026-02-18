@@ -161,7 +161,8 @@ Python-based analytical tool for photovoltaic system economic impact assessment.
 
 <div align=center>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=eduardiazcode&layout=donut-vertical&theme=algolia&bg_color=1e2b3c&border_color=70a5fd&border_radius=20&count_private=true&langs_count=8)
+<!-- Agregué &v=2 al final para forzar la actualización -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=eduardiazcode&layout=donut-vertical&theme=algolia&bg_color=1e2b3c&border_color=70a5fd&border_radius=20&count_private=true&langs_count=8&v=2)
 
 </div>
 
@@ -169,9 +170,9 @@ Python-based analytical tool for photovoltaic system economic impact assessment.
 
 <div align=center>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=eduardiazcode&theme=onedark&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Agregué &v=2 al final para forzar la actualización -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=eduardiazcode&theme=onedark&no-frame=true&margin-w=10&v=2)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
 
 ---
 

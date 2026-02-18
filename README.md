@@ -1,5 +1,5 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
 </div>
 
 <h3 align="center">
@@ -161,7 +161,7 @@ Python-based analytical tool for photovoltaic system economic impact assessment.
 
 <div align=center>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=eduardiazcode)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=eduardiazcode&layout=donut-vertical&theme=algolia&bg_color=1e2b3c&border_color=70a5fd&border_radius=20&count_private=true&langs_count=8)
 
 </div>
 
@@ -169,7 +169,7 @@ Python-based analytical tool for photovoltaic system economic impact assessment.
 
 <div align=center>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=eduardiazcode&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=eduardiazcode&theme=onedark&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 

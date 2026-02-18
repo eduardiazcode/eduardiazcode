@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Renewable+Energy+Engineer;Data+Science+Enthusiast;Python+%7C+SQL+%7C+LaTeX;Building+Data-Driven+Solutions&font=Fira+Code&center=true&width=500&height=45&color=14b8a6&vCenter=true&pause=1000&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Renewable+Energy+Engineer;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Looker+Studio;Building+Data-Driven+Solutions&font=Fira+Code&center=true&width=500&height=45&color=14b8a6&vCenter=true&pause=1000&size=22"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <img src="https://img.shields.io/badge/Location-Peru-D91023?style=for-the-badge&logo=flag&logoColor=white" alt="Location"/>
-  <img src="https://img.shields.io/badge/Open%20To-Work-14b8a6?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Work"/>
+  <img src="https://img.shields.io/badge/Open%20To-Data+Analyst+Roles-14b8a6?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Work"/>
 </p>
 
 ---
@@ -27,11 +27,12 @@
 
 | | |
 |---|---|
-| 🎓 | B.Sc. Renewable Energy Engineering |
+| 🎓 | **Bachiller** en Ingeniería de Energías Renovables |
+| 🏛️ | Universidad Nacional de Juliaca |
 | 📍 | Juliaca, Peru |
-| 💼 | Open to Data Science Roles |
-| 🌱 | Currently: Monte Carlo Simulation Thesis |
-| 💬 | Let's talk about: Solar Energy, Statistics, Geospatial Analysis |
+| 💼 | Seeking Data Analyst Positions |
+| 🌱 | Currently: Developing Solar Calculator + Thesis |
+| 💬 | Let's talk about: Data Analysis, Solar Energy, Python |
 
 ---
 
@@ -39,14 +40,17 @@
 
 <div align="center">
 
-**Languages:**
+**Programming:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-**Data Science:**
+**Data Analysis:**
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google-looker&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Visualization:**
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
 **Tools:**
@@ -86,37 +90,47 @@
 ## 💼 Featured Projects
 
 <details open>
-<summary><b>🔬 Monte Carlo Solar Simulation</b></summary>
+<summary><b>☀️ Solar Energy Calculator (In Development)</b></summary>
 
-Probabilistic modeling for solar energy potential assessment using geospatial data.
+Python-based analytical tool for photovoltaic system economic impact assessment.
 
-**Tech:** Python, NumPy, SciPy, Geospatial Analysis
+**Tech:** Python, NumPy, Pandas, ROI Analysis
 
-[View Repository →](https://github.com/eduardiazcode/eduardiazcode)
+**Status:** 🚧 Currently Building
+
+[View Repository →](https://github.com/eduardiazcode)
 
 </details>
 
 <details>
-<summary><b>💰 Santa Lucía Financial System</b></summary>
+<summary><b>📊 Professional Thesis Project</b></summary>
 
-Automated financial management with amortization algorithms.
+Technical-Economic Assessment of Solar Water Heaters using Geospatial Data and Monte Carlo Simulation.
+
+**Tech:** Python, Statistical Modeling, Geospatial Analysis, LaTeX
+
+**Status:** 📝 In Progress
+
+</details>
+
+<details>
+<summary><b>💰 Financial Management System</b></summary>
+
+Automated financial platform with amortization algorithms and data processing.
 
 **Tech:** Python, Data Processing, Analytics
 
-[View Repository →](https://github.com/eduardiazcode/eduardiazcode)
+[View Repository →](https://github.com/eduardiazcode)
 
 </details>
 
-<details>
-<summary><b>☀️ Solar Savings Calculator</b></summary>
+---
 
-Economic impact assessment tool for photovoltaic systems.
+## 🎓 Education
 
-**Tech:** Python, ROI Analysis, Investment Modeling
-
-[View Repository →](https://github.com/eduardiazcode/eduardiazcode)
-
-</details>
+| Degree | Institution | Status |
+|--------|-------------|--------|
+| **Bachiller en Ingeniería de Energías Renovables** | Universidad Nacional de Juliaca | ✅ Completed |
 
 ---
 
@@ -125,8 +139,9 @@ Economic impact assessment tool for photovoltaic systems.
 <div align="center">
 
 **I'm interested in:**
-- 🌱 Renewable Energy Optimization
-- 📊 Data Science Applications in Sustainability
+- 📊 Data Analyst Opportunities
+- 🌱 Renewable Energy + Data Analysis
+- 📈 Business Intelligence Projects
 - 🤝 Open Source Contributions
 
 <br>
@@ -138,7 +153,7 @@ Economic impact assessment tool for photovoltaic systems.
 
 <h5 align="center">
 
-> 💡 *"Bridging renewable energy and data science to build a sustainable future"*
+> 💡 *"Bridging renewable energy and data analysis to build a sustainable future"*
 
 </h5>
 

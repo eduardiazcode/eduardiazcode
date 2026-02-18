@@ -3,12 +3,12 @@
 </div>
 
 <h3 align="center">
-  Hi, I'm Eduardo Ignacio Diaz Mollocondo
+  Hola, Soy Eduardo Ignacio Diaz Mollocondo
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Renewable%20Energy%20Engineer;Aspiring%20Data%20Scientist;Python%20%7C%20PostgreSQL%20%7C%20LaTeX;Open%20Source%20Advocate;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=45&color=2dd4bf&vCenter=true&pause=1000&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Renewable%20Energy%20Engineer;Aspiring%20Data%20Scientist;Python%20%7C%20PostgreSQL%20%7C%20LaTeX;Open%20Source%20Advocate;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=45&color=14b8a6&vCenter=true&pause=1000&size=22"></a>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre Mi
 
 Renewable Energy Engineer with a passion for data-driven solutions. Currently bridging the gap between sustainable energy systems and advanced analytics to optimize resource utilization and drive informed decision-making.
 
@@ -128,31 +128,22 @@ Python-based analytical tool for photovoltaic system economic impact assessment.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardiazcode&theme=merko&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=2dd4bf&icon_color=2dd4bf&border_radius=20&include_all_commits=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eduardiazcode&theme=merko&background=0f2922&border=14b8a6&stroke=0d9488&ring=14b8a6&fire=14b8a6&currStreakNum=14b8a6&sideNums=14b8a6&currStreakLabel=14b8a6&sideLabels=14b8a6&dates=e0f2f1&border_radius=20)
 
 </div>
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=eduardiazcode&layout=donut-vertical&theme=merko&bg_color=1e2b3c&border_color=2dd4bf&border_radius=20&count_private=true&langs_count=8)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardiazcode&theme=dark)
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eduardiazcode&theme=dark)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eduardiazcode&theme=dark)
+![Stats In Details](https://github-profile-summary-cards.vercel.app/api/cards/stats-in-details?username=eduardiazcode&theme=dark)
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eduardiazcode&theme=merko&background=1E2B3C&border=2dd4bf&stroke=0f4c3a&ring=2dd4bf&fire=2dd4bf&currStreakNum=2dd4bf&sideNums=2dd4bf&currStreakLabel=2dd4bf&sideLabels=2dd4bf&dates=ffffff&border_radius=20)
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=eduardiazcode&theme=flat&no-frame=true&margin-w=15&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardiazcode&theme=react-dark&bg_color=1e2b3c&color=2dd4bf&line=2dd4bf&point=2dd4bf&area=true&hide_border=false&border_radius=20)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardiazcode&theme=react-dark&bg_color=0f2922&color=14b8a6&line=0d9488&point=14b8a6&area=true&hide_border=false&border_radius=20)
 
 </div>
 

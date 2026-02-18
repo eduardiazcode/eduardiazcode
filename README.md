@@ -27,12 +27,12 @@
 
 | | |
 |---|---|
-| 🎓 | Bachelor en Ingeniería de Energías Renovables |
+| 🎓 | **Bachiller** en Ingeniería de Energías Renovables |
 | 🏛️ | **Universidad Nacional de Juliaca (UNAJ)** |
 | 📍 | Juliaca, Peru |
 | 💼 | Seeking Data Analyst Positions |
-| 🌱 | Currently: Developing Solar Calculator + Thesis |
-| 💬 | Let's talk about: Data Analysis, Solar Energy, Python |
+| 🌱 | Currently: Learning Python + Developing Tools |
+| 💬 | Let's talk about: Data Analysis, Solar Energy, Automation |
 
 ---
 
@@ -90,13 +90,35 @@
 ## 💼 Featured Projects
 
 <details open>
+<summary><b>📊 Financial Management System - Santa Lucía</b></summary>
+
+Complete financial management system built in **Google Sheets** for a savings and credit cooperative.
+
+**Features:**
+- ✅ Income and expense tracking
+- ✅ Payment schedule management
+- ✅ Automatic payment date updates
+- ✅ Financial reporting
+
+**Tech:** Google Sheets, Formulas, Data Organization
+
+**Impact:** Streamlined financial operations for a local cooperative
+
+</details>
+
+<details>
 <summary><b>☀️ Solar Energy Calculator (In Development)</b></summary>
 
-Python-based analytical tool for photovoltaic system economic impact assessment.
+Python-based tool for calculating solar energy system parameters and savings.
 
-**Tech:** Python, NumPy, Pandas, ROI Analysis
+**Features:**
+- ✅ Solar panel calculations
+- ✅ Energy production estimates
+- ✅ Cost savings projections
 
-**Status:** 🚧 Currently Building
+**Tech:** Python (Basic)
+
+**Status:** 🚧 Currently Building - Learning as I Go
 
 [View Repository →](https://github.com/eduardiazcode)
 
@@ -110,17 +132,6 @@ Technical-Economic Assessment of Solar Water Heaters using Geospatial Data and M
 **Tech:** Python, Statistical Modeling, Geospatial Analysis, LaTeX
 
 **Status:** 📝 In Progress
-
-</details>
-
-<details>
-<summary><b>💰 Financial Management System</b></summary>
-
-Automated financial platform with amortization algorithms and data processing.
-
-**Tech:** Python, Data Processing, Analytics
-
-[View Repository →](https://github.com/eduardiazcode)
 
 </details>
 

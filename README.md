@@ -56,8 +56,10 @@ Renewable Energy Engineer with a passion for data-driven solutions. Currently br
 
 ## 🛠 Tech Stack
 
+<## 🛠 Tech Stack
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,html,css,git,github,linux,postgres,vscode,jupyter,latex&perline=10" />
+  <img src="https://skillicons.dev/icons?i=py,html,css,git,github,linux,postgres,vscode,jupyter,latex&perline=10"/>
 </div>
 
 <br>
@@ -105,19 +107,8 @@ Python-based analytical tool for photovoltaic system economic impact assessment.
 
 <br>
 
+
 ## 📊 Profile Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardiazcode&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=70a5fd&icon_color=70a5fd&border_radius=20&include_all_commits=true&rank_icon=percentile)
-
-</div>
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=eduardiazcode&layout=donut-vertical&theme=algolia&bg_color=1e2b3c&border_color=70a5fd&border_radius=20&count_private=true&langs_count=8)
-
-</div>
 
 <div align="center">
 
@@ -125,8 +116,6 @@ Python-based analytical tool for photovoltaic system economic impact assessment.
 ![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eduardiazcode&theme=algolia)
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eduardiazcode&theme=algolia)
 ![Stats In Details](https://github-profile-summary-cards.vercel.app/api/cards/stats-in-details?username=eduardiazcode&theme=algolia)
-
-</div>
 
 </div>
 

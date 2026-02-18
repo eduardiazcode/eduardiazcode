@@ -161,7 +161,7 @@ Python-based analytical tool for photovoltaic system economic impact assessment.
 
 <div align=center>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardodiazcode)](https://github.com/eduardodiazcode/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=eduardiazcode&layout=compact&theme=algolia&bg_color=1e2b3c&border_color=70a5fd&border_radius=20&count_private=true&langs_count=8)](https://github.com/eduardiazcode
 
 </div>
 

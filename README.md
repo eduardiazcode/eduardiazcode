@@ -89,9 +89,11 @@ eduardo = {
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eduardiazcode&theme=transparent&border=e2e8f0&stroke=e2e8f0&ring=0d9488&fire=0d9488&currStreakNum=0f172a&sideNums=0f172a&currStreakLabel=647488&sideLabels=647488&dates=94a3b8&border_radius=6)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eduardiazcode&theme=tokyonight&border_radius=6)
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardiazcode&theme=github)
+![Stats](https://github-readme-stats.vercel.app/api?username=eduardiazcode&show_icons=true&theme=tokyonight&border_radius=6&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardiazcode&layout=compact&theme=tokyonight&border_radius=6)
 
 </div>
 

@@ -93,7 +93,9 @@ eduardo = {
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=eduardiazcode&show_icons=true&theme=tokyonight&border_radius=6&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardiazcode&layout=compact&theme=tokyonight&border_radius=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardiazcode&layout=donut&theme=tokyonight&border_radius=6)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardiazcode&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 

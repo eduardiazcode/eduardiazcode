@@ -1,65 +1,87 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d9488,100:0369a1&text=Eduardo%20Díaz%20Mollocondo&fontColor=ffffff&fontSize=32&fontAlignY=38&desc=Data%20Analyst%20·%20Renewable%20Energy%20Engineer&descAlignY=58&descSize=16)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardodiazdev/)
+[![Portfolio](https://img.shields.io/badge/Portafolio-0d9488?style=for-the-badge&logo=github-pages&logoColor=white)](https://eduardiazcode.github.io)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardoignaciodm@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Data%20Analyst-0369a1?style=for-the-badge)](https://www.linkedin.com/in/eduardodiazdev/)
+
 </div>
-
-<h1 align="center">
-  Hi, I'm Eduardo Diaz Mollocondo 👋
-</h1>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Renewable+Energy+Engineer;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Looker+Studio;Building+Data-Driven+Solutions&font=Fira+Code&center=true&width=500&height=45&color=14b8a6&vCenter=true&pause=1000&size=22"></a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/eduardodiazdev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:eduardoignaciodm@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <img src="https://img.shields.io/badge/Location-Peru-D91023?style=for-the-badge&logo=flag&logoColor=white" alt="Location"/>
-  <img src="https://img.shields.io/badge/Open%20To-Data+Analyst+Roles-14b8a6?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Work"/>
-</p>
 
 ---
 
-## 🎯 Quick Info
+## 👨‍💻 Sobre mí
 
-| | |
-|---|---|
-| 🎓 | **Bachiller** en Ingeniería de Energías Renovables |
-| 🏛️ | **Universidad Nacional de Juliaca (UNAJ)** |
-| 📍 | Juliaca, Peru |
-| 💼 | Seeking Data Analyst Positions |
-| 🌱 | Currently: Learning Python + Developing Tools |
-| 💬 | Let's talk about: Data Analysis, Solar Energy, Automation |
+Soy Bachiller en **Ingeniería de Energías Renovables** con especialización autodidacta en **Análisis de Datos**. Combino conocimiento técnico del sector energético con herramientas de datos para generar insights accionables.
+
+Busco mi primera posición formal como **Data Analyst**, con especial interés en proyectos de energía, sostenibilidad y Business Intelligence.
+
+> 💡 *Energy + Data — un perfil escaso y de alta demanda en el sector de transición energética.*
+
+```python
+eduardo = {
+    "ubicacion": "Juliaca, Puno — Perú 🇵🇪",
+    "rol_buscado": "Data Analyst",
+    "stack": ["Python", "SQL", "Power BI", "Pandas"],
+    "intereses": ["Energía Renovable", "BI", "Geoespacial"],
+    "disponibilidad": "Inmediata — Híbrido / Remoto"
+}
+```
 
 ---
 
 ## 🛠 Tech Stack
 
-<div align="center">
+**Lenguajes**
 
-**Programming:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Data Analysis:**
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google-looker&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+**Análisis de Datos**
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-**Visualization:**
+**Visualización**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-**Tools:**
+**Herramientas**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-</div>
+---
+
+## 📂 Proyectos Destacados
+
+### 📊 Sistema de Gestión Financiera — Cooperativa Santa Lucía
+> Sistema completo en Google Sheets para una cooperativa de ahorro y crédito local. Automatiza ingresos, egresos y cronogramas de pago con reportes financieros integrados.
+
+`Google Sheets` `Fórmulas avanzadas` `Automatización`
+
+---
+
+### ☀️ Solar Energy Calculator *(en desarrollo)*
+> Herramienta en Python para calcular producción energética estimada, proyección de ahorros y dimensionamiento de paneles solares fotovoltaicos.
+
+`Python` `Pandas` `Matplotlib`
+
+[![Repo](https://img.shields.io/badge/Ver%20Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/eduardiazcode/Calculadora_Solar)
+
+---
+
+### 📐 Evaluación Técnico-Económica de Calentadores Solares *(tesis)*
+> Investigación de grado con análisis geoespacial y simulación Monte Carlo para evaluar viabilidad de calentadores solares en Puno. Incluye indicadores TIR y VAN.
+
+`Python` `Monte Carlo` `Análisis Geoespacial` `LaTeX`
 
 ---
 
@@ -67,122 +89,34 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eduardiazcode&theme=merko&background=0f2922&border=14b8a6&stroke=0d9488&ring=14b8a6&fire=14b8a6&currStreakNum=14b8a6&sideNums=14b8a6&currStreakLabel=14b8a6&sideLabels=14b8a6&dates=e0f2f1&border_radius=20)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eduardiazcode&theme=transparent&border=e2e8f0&stroke=e2e8f0&ring=0d9488&fire=0d9488&currStreakNum=0f172a&sideNums=0f172a&currStreakLabel=647488&sideLabels=647488&dates=94a3b8&border_radius=6)
 
-</div>
-
-<div align="center">
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardiazcode&theme=dark)
-![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eduardiazcode&theme=dark)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eduardiazcode&theme=dark)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardiazcode&theme=react-dark&bg_color=0f2922&color=14b8a6&line=0d9488&point=14b8a6&area=true&hide_border=false&border_radius=20)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardiazcode&theme=github)
 
 </div>
 
 ---
 
-## 💼 Featured Projects
+## 🎓 Formación & Certificaciones
 
-<details open>
-<summary><b>📊 Financial Management System - Santa Lucía</b></summary>
+🎓 **Bachiller en Ingeniería de Energías Renovables** — Universidad Nacional de Juliaca (UNAJ)
 
-Complete financial management system built in **Google Sheets** for a savings and credit cooperative.
-
-**Features:**
-- ✅ Income and expense tracking
-- ✅ Payment schedule management
-- ✅ Automatic payment date updates
-- ✅ Financial reporting
-
-**Tech:** Google Sheets, Formulas, Data Organization
-
-**Impact:** Streamlined financial operations for a local cooperative
-
-</details>
-
-<details>
-<summary><b>☀️ Solar Energy Calculator (In Development)</b></summary>
-
-Python-based tool for calculating solar energy system parameters and savings.
-
-**Features:**
-- ✅ Solar panel calculations
-- ✅ Energy production estimates
-- ✅ Cost savings projections
-
-**Tech:** Python (Basic)
-
-**Status:** 🚧 Currently Building - Learning as I Go
-
-[View Repository →](https://github.com/eduardiazcode)
-
-</details>
-
-<details>
-<summary><b>📊 Professional Thesis Project</b></summary>
-
-Technical-Economic Assessment of Solar Water Heaters using Geospatial Data and Monte Carlo Simulation.
-
-**Tech:** Python, Statistical Modeling, Geospatial Analysis, LaTeX
-
-**Status:** 📝 In Progress
-
-</details>
+| Certificación | Plataforma | Fecha |
+|---|---|---|
+| GitHub for Developers | EDteam | Dic. 2025 |
+| Git | EDteam | Dic. 2025 |
+| Estadística | EDteam | Dic. 2025 |
+| Introducción a la Terminal | EDteam | Nov. 2025 |
+| Microsoft Excel | EDteam | Nov. 2025 |
+| Power BI | EDteam | Nov. 2025 |
 
 ---
 
-## 🎓 Education & Certifications
+## 📬 Contacto
 
-### University Education
+Disponible para roles de **Data Analyst**, proyectos de **Business Intelligence** y colaboraciones en energía renovable + datos.
 
-| Degree | Institution | Status |
-|--------|-------------|--------|
-| **Bachiller en Ingeniería de Energías Renovables** | Universidad Nacional de Juliaca (UNAJ) | ✅ Completed |
+[![LinkedIn](https://img.shields.io/badge/Conectar%20en%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardodiazdev/)
+[![Email](https://img.shields.io/badge/Enviar%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardoignaciodm@gmail.com)
 
-### Professional Certifications
-
-| Certification | Institution | Date | Instructor |
-|:--------------|:------------|:----:|:-----------|
-| **GitHub for Developers** | EDteam | Dec 2025 | Beto Quiroga |
-| **Git** | EDteam | Dec 2025 | Beto Quiroga |
-| **Estadística** | EDteam | Dec 2025 | Victor Hugo Teran |
-| **Introducción a la Terminal** | EDteam | Nov 2025 | Alexis Lozada |
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-**I'm interested in:**
-- 📊 Data Analyst Opportunities
-- 🌱 Renewable Energy + Data Analysis
-- 📈 Business Intelligence Projects
-- 🤝 Open Source Contributions
-
-<br>
-
-<a href="mailto:eduardoignaciodm@gmail.com"><img src="https://img.shields.io/badge/📧-Email_Me-D14836?style=for-the-badge" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/eduardodiazdev/"><img src="https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
-</div>
-
-<h5 align="center">
-
-> 💡 *"Bridging renewable energy and data analysis to build a sustainable future"*
-
-</h5>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
-<p align="center">Made with ❤️ by <a href="https://github.com/eduardiazcode">eduardiazcode</a></p>
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0369a1,100:0d9488&section=footer)
